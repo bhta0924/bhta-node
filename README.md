@@ -17,7 +17,7 @@ The goal was to make this solution review-ready, not production-ready.
 node v >= 20.9.0
 ```
 
-To run the backend (no need to worry about `.env`s):
+To run the backend (no need to worry about `.env`s -- not a good practice, but convenient):
 
 ```sh
 $ npm i
