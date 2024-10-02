@@ -25,6 +25,12 @@ $ npm start
 # server will run on http://localhost:3000
 ```
 
+To run tests:
+
+```sh
+$ npm test
+```
+
 ## Implementation
 
 ### Ideas
